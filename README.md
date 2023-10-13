@@ -39,10 +39,10 @@ The file app.py is the source code of the web application deployed in Hugging Fa
 
 ## Contact
 
-Mert Karabacak, MD
-Clinical Research Coordinator
-Mount Sinai Health System
-Department of Neurosurgery
+Mert Karabacak, MD\
+Clinical Research Coordinator\
+Mount Sinai Health System\
+Department of Neurosurgery\
 
-Email: Mert.Karabacak@mountsinai.org
+Email: Mert.Karabacak@mountsinai.org\
 X: @MertKarabacakMD
