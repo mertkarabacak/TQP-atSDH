@@ -44,5 +44,5 @@ Clinical Research Coordinator\
 Mount Sinai Health System\
 Department of Neurosurgery
 
-<b>Email:</b> Mert.Karabacak@mountsinai.org
+<b>Email:</b> Mert.Karabacak@mountsinai.org\
 <b>X:</b> @MertKarabacakMD
