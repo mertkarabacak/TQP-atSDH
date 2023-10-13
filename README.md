@@ -12,30 +12,30 @@ Our preprocessing starts with a .csv file (isolated_atSDH.csv). This file was ob
 
 The code provided in this repository is for preprocessing the data and testing machine learning algorithms for each outcome of interest in Jupyter Notebook format. 
 
-*TQP_atSDH_Preprocess.ipynb
-*TQP_atSDH_Mortality.ipynb
-*TQP_atSDH_Discharge.ipynb
-*TQP_atSDH_LOS.ipynb
-*TQP_atSDH_ICU-LOS.ipynb
-*TQP_atSDH_Complications.ipynb
+* TQP_atSDH_Preprocess.ipynb
+* TQP_atSDH_Mortality.ipynb
+* TQP_atSDH_Discharge.ipynb
+* TQP_atSDH_LOS.ipynb
+* TQP_atSDH_ICU-LOS.ipynb
+* TQP_atSDH_Complications.ipynb
 
 The file app.py is the source code of the web application deployed in Hugging Face (https://huggingface.co/spaces/MSHS-Neurosurgery-Research/TQP-atSDH).
 
-*app.py
+* app.py
 
 ## Requirements
 
-*numpy
-*pandas
-*matplotlib
-*math
-*scipy
-*random
-*sklearn
-*optuna
-*tabpfn
-*pytorch-tabnet
-*shap
+* numpy
+* pandas
+* matplotlib
+* math
+* scipy
+* random
+* sklearn
+* optuna
+* tabpfn
+* pytorch-tabnet
+* shap
 
 ## Contact
 
